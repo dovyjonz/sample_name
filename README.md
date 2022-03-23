@@ -1,2 +1,3 @@
 # sample_name
-thing
+thingy
+thong
